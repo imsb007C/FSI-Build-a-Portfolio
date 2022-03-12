@@ -1,0 +1,14 @@
+body {
+    background-color: blanchedalmond;
+    font-family:'Times New Roman', Times, serif;
+    cursor: grab;
+}
+img {
+    border: 2px solid red;
+}
+h1  {
+    text-align: center;
+}
+a {
+    cursor: pointer;
+}
